@@ -1,0 +1,73 @@
+/* Tailwind CSS */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* Normal CSS */
+
+
+/* #logo{
+  width:170px;
+
+}
+
+#headercontainer{
+  display: flex;
+  justify-content: space-between;
+}
+
+.listitems{
+  margin-top: 40px;
+  display: flex;
+  list-style-type: none;
+}
+
+li{
+  padding: 0px 10px;
+  font-size: large;
+}
+
+#food-img{
+    width:200px;
+    
+}
+
+#restcontainer{
+  display: flex;
+  flex-wrap: wrap;
+
+}
+
+#ResCard{
+  width :200px;
+  padding : 10px;
+  margin : 5px;
+  background-color: antiquewhite;
+  
+}
+
+#ResCard:hover{
+  border:1px solid black;
+}
+#filter{
+  margin: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  
+}
+.filter-btn{
+  cursor: pointer;
+  margin-left: 20px;
+}
+.react-btn{
+  width: 100px;
+cursor: pointer;
+}
+.usercard{
+  border: 1px solid black;
+  padding : 10px;
+  
+  
+} */
